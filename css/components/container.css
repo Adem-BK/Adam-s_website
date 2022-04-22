@@ -1,0 +1,59 @@
+.container {
+  width: 900px;
+  margin: 0 auto;
+}
+
+.card {
+  width: 900px;
+  margin: 0 auto;
+}
+
+.pics {
+  height: 600px;
+  width: 600px;
+}
+
+@media(max-width: 920px ) {
+  .container{
+    width: 720px;
+  }
+
+  .card {
+    width: 720px;
+  }
+  .pics {
+  height: 300px;
+  width: 300px;
+  }
+}
+
+@media(max-width: 520px ) {
+  .container{
+    width: 320px;
+  }
+
+  .card{
+    width: 320px;
+  }
+
+  .pics {
+  height: 150px;
+  width: 150px;
+  }
+
+}
+
+@media(max-width: 720px ) {
+  .container{
+    width: 520px;
+  }
+
+  .pics {
+  height: 250px;
+  width: 250px;
+  }
+
+  .card {
+    width: 520px;
+  }
+}

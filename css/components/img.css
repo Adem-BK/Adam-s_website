@@ -1,0 +1,9 @@
+.img {
+  display: flex;
+  justify-content: space-around;
+}
+.icon {
+  height:50px ;
+  width:50px ;
+}
+

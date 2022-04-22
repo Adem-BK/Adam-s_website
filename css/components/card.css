@@ -1,0 +1,81 @@
+.card{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 30px;
+  background-color: white;
+  align-items: center;
+  justify-content: space-around;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+  border-radius: 6px;
+  margin: 10px;
+  flex-grow: 1;
+  flex-basis: 250px;
+}
+
+.img-flex {
+  width: 300px;
+  height: 300px;
+  border-radius: 6px;
+}
+
+.cards {
+  display: flex;
+  padding: 30px ;
+  background-color: black;
+  justify-content: space-evenly;
+}
+
+#poster {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.components {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 30px;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 6px;
+  margin: 10px;
+  flex-grow: 1;
+  flex-basis: 250px;
+}
+
+.uber-list {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 30px;
+  margin: 30px;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 6px;
+  margin: 10px;
+  flex-grow: 1;
+  flex-basis: 250px;
+}
+
+.destination {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.images {
+  display: flex;
+  padding: 30px ;
+  justify-content: space-evenly;
+}
+
+
+.welcome-card {
+  display :flex;
+  margin: 10px;
+  margin-left: 200px;
+  color: white;
+}
+.welcome-cards {
+  display: flex;
+  color: white;
+}

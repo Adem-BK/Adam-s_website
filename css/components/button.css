@@ -1,0 +1,26 @@
+.black-btn {
+  padding: 15px 20px;
+  color: white;
+  font-family: 'roboto', sans-serif ;
+  font-weight: bold;
+  width: 25px;
+}
+
+.black-btn:hover {
+  background-color: #EAECEE;
+  padding: 10px 15px;
+  border-radius: 20px;
+  color:black ;
+  width: 25px;
+}
+
+#uber {
+  padding-left: 70px;
+  padding: 15px 20px;
+  border-radius: 4px;
+  color: white;
+  font-family: 'roboto', sans-serif ;
+  font-weight: bold;
+  width: 150px;
+  font-size: 26px;
+}
